@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.28)  5 JAN 2021 22:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.2.3)  8 FEB 2021 16:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -100,8 +100,7 @@ Package: nopageno 1989/01/01 no page numbers (DPC)
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count189
 \l__pdf_internal_box=\box48
-)
-No file resume.aux.
+) (./resume.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
@@ -154,9 +153,9 @@ LaTeX Font Info:    ... okay on input line 14.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2216 strings out of 479383
- 30616 string characters out of 5875829
- 323935 words of memory out of 5000000
+ 2218 strings out of 479383
+ 30638 string characters out of 5875831
+ 323926 words of memory out of 5000000
  19358 multiletter control sequences out of 15000+600000
  407075 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -167,7 +166,7 @@ nts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/publ
 ic/cm-super/sfbx1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfr
 m1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr
 /share/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on resume.pdf (1 page, 89208 bytes).
+Output written on resume.pdf (1 page, 89314 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
